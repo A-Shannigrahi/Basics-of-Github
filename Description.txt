@@ -1,1 +1,2 @@
 Hello to the plain text file.
+It is intersting to learn about version control.
